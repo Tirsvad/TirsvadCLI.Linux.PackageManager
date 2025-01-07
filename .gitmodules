@@ -1,3 +1,0 @@
-[submodule "src/PackageManager/vendor/Linux.Distribution"]
-	path = src/PackageManager/vendor/Linux.Distribution
-	url = git@github.com:TirsvadCLI/Linux.Distribution.git
